@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oojeibexo.busylifeplan.com/sitemap.xml
